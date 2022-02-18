@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg"
+ viewBox="0 0 59 64" width="49" height="55">
+	<title>btn sort size</title>
+	<style>
+		.s0 { fill: #c3b6d3 } 
+		.s1 { fill: #e7dfef } 
+		.s2 { fill: #633585 } 
+	</style>
+	<g id="btn sort size">
+		<g id="btn  sort size">
+			<path id="Layer" class="s0" d="m59 21.9v36.6h-5.5v5.5h-11h-25.6h-11v-5.5h-5.5v-36.6h5.5v-5.5h11h25.6h11v5.5z" />
+			<path id="Layer" class="s1" d="m59 5.4v11v25.6v11h-5.5v5.5h-11h-25.6h-11v-5.5h-5.5v-5.5v-5.5v-25.6v-5.5v-5.5h5.5v-5.5h11h25.6h11v5.5z" />
+		</g>
+		<g id="sort size">
+			<path id="Layer" class="s2" d="m21.1 30.4h5.5v11h-5.5z" />
+			<path id="Layer" class="s2" d="m15.6 30.4h5.5v11h-5.5z" />
+			<path id="Layer" class="s2" d="m32.1 30.4h5.5v11h-5.5z" />
+			<path id="Layer" class="s2" d="m32.1 19.4h5.5v11h-5.5z" />
+			<path id="Layer" class="s2" d="m37.6 30.4h5.5v11h-5.5z" />
+			<path id="Layer" class="s2" d="m37.6 19.4h5.5v11h-5.5z" />
+		</g>
+	</g>
+</svg>

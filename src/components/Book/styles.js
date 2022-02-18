@@ -8,7 +8,7 @@ export const Container = styled.div`
   
 
     ${props => props.isDragging && css`
-        display:none;
+       
         cursor:grabbing;
         background: none;
         

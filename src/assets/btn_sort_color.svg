@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg"
+ viewBox="0 0 59 65" width="49" height="55">
+	<title>btn sort color</title>
+	<style>
+		.s0 { fill: #c3b6d3 } 
+		.s1 { fill: #e7dfef } 
+		.s2 { fill: #eb3929 } 
+		.s3 { fill: #f1f552 } 
+		.s4 { fill: #40a7f6 } 
+		.s5 { fill: #633585 } 
+	</style>
+	<g id="btn sort color">
+		<g id="btn  sort color">
+			<path id="Layer" class="s0" d="m58.9 22.6v36.7h-5.5v5.5h-10.9h-25.7h-11v-5.5h-5.5v-36.7h5.5v-5.5h11h25.7h10.9v5.5z" />
+			<path id="Layer" class="s1" d="m58.9 6.2v10.9v25.7v11h-5.5v5.5h-10.9h-25.7h-11v-5.5h-5.5v-5.5v-5.5v-25.7v-5.4v-5.5h5.5v-5.5h11h25.7h10.9v5.5z" />
+		</g>
+		<g id="sort colors">
+			<path id="Layer" class="s2" d="m19.3 20.2h8.5v8.6h-8.5z" />
+			<path id="Layer" class="s3" d="m33.3 20.2h8.5v8.6h-8.5z" />
+			<path id="Layer" class="s4" d="m19.3 35.4h8.5v8.6h-8.5z" />
+			<path id="Layer" class="s5" d="m33.3 35.4h8.5v8.6h-8.5z" />
+		</g>
+	</g>
+</svg>

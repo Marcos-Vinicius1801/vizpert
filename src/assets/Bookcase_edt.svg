@@ -1,0 +1,65 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 603 370" width="573" height="360">
+	<title>Bookcase</title>
+	<style>
+		.s0 { fill: #695433 } 
+		.s1 { fill: #362a15 } 
+		.s2 { fill: #8e6835 } 
+		.s3 { fill: #b78a4e } 
+		.s4 { fill: #633585 } 
+	</style>
+	<g id="Bookcase">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m450.2 147.7v41.6h-416.8v-41.6z" />
+			<path id="Layer" class="s1" d="m33.4 147.7v-74.1h416.8v74.1z" />
+			<path id="Layer" class="s0" d="m450.2 295.9v41.6h-416.8v-41.6z" />
+			<path id="Layer" class="s1" d="m33.4 221.8h416.8v74.1h-416.8z" />
+			<path id="Layer" class="s2" d="m478 4.6h4.6v44.8h-481.6v-44.8h4.6v-4.6h472.4z" />
+			<path id="Layer" fill-rule="evenodd" class="s3" d="m482.6 48.9v316.4h-4.6v4.6h-472.4v-4.6h-4.6v-316.4h4.6v-4.7h472.4v4.7zm-32.4 177.5h-4.7v-4.6h-407.5v4.6h-4.6v106.5h4.6v4.6h407.5v-4.6h4.7zm0-148.2h-4.7v-4.6h-407.5v4.6h-4.6v106.5h4.6v4.7h407.5v-4.7h4.7z" />
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m10.3 110.1h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m10.3 114.7h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m10.3 119.4h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m10.3 124h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m14.9 114.7h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m14.9 119.4h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m14.9 124h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m19.5 119.4h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m10.3 128.6h4.6v4.7h-4.6z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m19.5 291.2h4.7v4.7h-4.7z" />
+				<path id="Layer" class="s0" d="m19.5 286.6h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m24.2 286.6h-4.7v-4.6h4.7z" />
+				<path id="Layer" class="s0" d="m19.5 277.3h4.7v4.7h-4.7z" />
+				<path id="Layer" class="s0" d="m14.9 286.6h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m19.5 286.6h-4.6v-4.6h4.6z" />
+				<path id="Layer" class="s0" d="m14.9 277.3h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m10.3 282h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m19.5 272.7h4.7v4.6h-4.7z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m459.4 110.1h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m459.4 114.7h4.7v4.7h-4.7z" />
+				<path id="Layer" class="s0" d="m459.4 119.4h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m459.4 124h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m464.1 114.7h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m464.1 119.4h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m464.1 124h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m468.7 119.4h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m459.4 128.6h4.7v4.7h-4.7z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m468.7 291.2h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m468.7 286.6h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m468.7 282h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m468.7 277.3h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m464.1 286.6h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m464.1 282h4.6v4.6h-4.6z" />
+				<path id="Layer" class="s0" d="m464.1 277.3h4.6v4.7h-4.6z" />
+				<path id="Layer" class="s0" d="m459.4 282h4.7v4.6h-4.7z" />
+				<path id="Layer" class="s0" d="m468.7 272.7h4.6v4.6h-4.6z" />
+			</g>
+		</g>
+		<path id="Layer" class="s4" d="m603 244.9v4.6h-4.6v4.7h-4.7v4.6h-4.6v4.6h-4.6v4.7h-4.7v4.6h-4.6v4.6h-4.6v4.7h-4.6v4.6h-4.7v4.6h-4.6v4.7h-4.6v4.6h-4.7v4.6h-4.6v4.6h-4.6v4.7h-4.7v4.6h-4.6v4.6h-4.6v4.7h-4.7v4.6h-4.6v4.6h-4.6v4.7h-4.6v4.6h-4.7v4.6h-4.6v4.7h-4.6v4.6h-4.7v4.6h-4.6v-4.6v-4.6v-4.7v-4.6v-97.3v-4.6h97.2h4.7h13.9z" />
+	</g>
+</svg>

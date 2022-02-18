@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" 
+	viewBox="0 0 59 59" width="49" height="49">
+	<title>btn sort alfabetic</title>
+	<style>
+		.s0 { fill: #c3b6d3 } 
+		.s1 { fill: #e7dfef } 
+		.s2 { fill: #8310dd } 
+	</style>
+	<g id="btn sort alfabetic">
+		<g id="btn active">
+			<path id="Layer" class="s0" d="m0.4 42.5v-36.6h5.5v-5.5h11h25.6h11v5.5h5.5v36.6h-5.5v5.5h-11h-25.6h-11v-5.5z" />
+			<path id="Layer" class="s1" d="m0.4 53.5v-5.5v-25.6v-11h5.5v-5.5h11h25.6h11v5.5h5.5v5.5v5.5v25.6v5.5h-5.5v5.5h-11h-25.6h-11v-5.5z" />
+		</g>
+		<g id="sort alfabetic">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="s2" d="m29.2 19.6h-1.1v-1.5h3.6l4.1 9.3h1v1.6h-4v-1.6h1.2c-0.3-0.5-0.4-1.1-0.6-1.6h-5.3c-0.2 0.5-0.5 1.1-0.8 1.6h1.3v1.6h-4v-1.6h1zm3.5 4.9c-0.6-1.3-1.1-2.7-2-4.7c-0.9 2.1-1.5 3.4-2.1 4.7z" />
+				<path id="Layer" class="s2" d="m28.1 36h-1.5v-3h7.7v0.7l-5.7 8.6h4.4l0.1-1.7h1.4v3.3h-8.3v-0.8l5.6-8.5h-3.7z" />
+			</g>
+		</g>
+	</g>
+</svg>
